@@ -526,6 +526,16 @@ code {
   margin-bottom: 0.8rem;
 }
 
+.cv-placeholder {
+  background: var(--color-surface);
+  border: 1px dashed var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.8rem 1.2rem;
+  margin-top: 1rem;
+  color: var(--color-text-light);
+  font-size: 0.95rem;
+}
+
 .contact-note {
   margin-top: 1rem;
   font-size: 0.95rem;
