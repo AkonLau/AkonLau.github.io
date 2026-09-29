@@ -396,6 +396,7 @@ main {
 .pub-badge.pr { background: #2c7a7b; }
 .pub-badge.tmm { background: #2980b9; }
 .pub-badge.vtc { background: #d4a017; }
+.pub-badge.ton { background: #1a5276; }
 
 .cite-badge {
   display: inline-block;
